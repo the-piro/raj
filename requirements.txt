@@ -1,0 +1,3 @@
+pyrofork
+tgcrypto
+uvloop==0.21.0
